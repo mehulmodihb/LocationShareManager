@@ -2,6 +2,8 @@
 
 LocationShareManager is easy integrated library for sharing current location or selected location along with latitude, longitude, place name and address. You can easily get address from latitude and longitude using ```GoogleReverseGeoCode``` and ```AppleReverseGeoCode```.
 
+![enter image description here](https://i.ibb.co/BwxDTjq/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-06-01-at-21-30-58.png)
+
 ## Installation
 
 You just need to drag and drop ```LocationManager``` folder to your project.
@@ -41,7 +43,6 @@ LocationShareManager.getReverceGeoCodeAddress(location: location) { (obj, msg) i
     }
 }
 ```
-
 ### • Google Reverse GeoCode :
 
 ```swift
@@ -55,6 +56,7 @@ LocationShareManager.performGoogleReverseGeocodeAPI(location: location) { (obj, 
 
 # License
 
+  
 
 ```
 Copyright 2020
