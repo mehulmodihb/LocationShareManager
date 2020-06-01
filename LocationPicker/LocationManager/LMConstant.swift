@@ -12,7 +12,7 @@ struct LMConstant {
      static let IS_IPHONE_X                                            = (UIScreen.main.bounds.size.height >= 812.0)
      static let kProfile                                        : String = "icon_user"//user_blank
      static let objAppDelegate                                  : AppDelegate = (UIApplication.shared.delegate as! AppDelegate)
-     static let API_KEY                                         : String = "AIzaSyAGYVmvijzmjC3dMX1yeM9RzMH6BiuPkx4"
+     static let API_KEY                                         : String = ""
 
      static let SEARCH_HISTORY                                  : String = "SEARCH_HISTORY"
      static let kRefreshMapViewNotification                     : String = "refreshMapView"
